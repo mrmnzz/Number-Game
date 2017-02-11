@@ -31,7 +31,7 @@ int main(){
                         printf("\nThe value of x = %.3f\n",x);
                         return 0;
                 }
-"newtonRaphson.c" 38L, 913C written
+/*=============================================================================================================================
 [be1571@radix numericalAnalysis]$ gcc newtonRaphson.c
 [be1571@radix numericalAnalysis]$ ./a.out 
 
@@ -51,3 +51,4 @@ Interation: 2   x=3.075557
 Interation: 3   x=3.051638
 Interation: 4   x=3.051374
 The value of x = 3.051
+*/
