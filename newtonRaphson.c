@@ -31,6 +31,10 @@ int main(){
                         printf("\nThe value of x = %.3f\n",x);
                         return 0;
                 }
+        }
+        printf("\nThe value of x cannot be retrieved with this number of itteration\n");
+        return 1;
+}
 /*=============================================================================================================================
 [be1571@radix numericalAnalysis]$ gcc newtonRaphson.c
 [be1571@radix numericalAnalysis]$ ./a.out 
