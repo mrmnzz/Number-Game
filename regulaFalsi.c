@@ -30,6 +30,9 @@ int main(){
                         return 0;
                 }
         }
+        printf("\nThe value of x cannot be retrieved with this number of itteration\n");
+        return 1;
+}
 /*======================================================================================
 
 OUTPUT::
